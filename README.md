@@ -19,6 +19,10 @@ O programa utilizado para o desenvolvimento do DER foi o brModelo. (<a href="htt
 <img class="aligncenter wp-image-18450 size-full" src="https://www.makerzine.com.br/wp-content/uploads/2022/12/DER_livraria.png" alt="" width="934" height="753" />
 
 &nbsp;
+
+Para baixar o arquivo do modelo conceitual (brModelo), <strong><a href="https://github.com/rodrigorissettoterra/Modelagem-de-dados/blob/main/Conceitual_livraria.brM3" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a></strong>.
+
+&nbsp;
 <h2 class="course-header-banner-title" aria-label="Curso de Modelagem de banco de dados relacional: modelagem lógica e física"><strong>Modelo lógico</strong></h2>
 &nbsp;
 
@@ -27,7 +31,13 @@ O programa utilizado para o desenvolvimento do DER foi o brModelo. (<a href="htt
 <img class="aligncenter wp-image-18455 size-full" src="https://www.makerzine.com.br/wp-content/uploads/2022/12/Modelagem_logica.png" alt="" width="975" height="766" />
 
 &nbsp;
+
+Para baixar o arquivo do modelo lógico (brModelo), <strong><a href="https://github.com/rodrigorissettoterra/Modelagem-de-dados/blob/main/L%C3%B3gico_livraria.brM3" target="_blank" rel="nofollow noopener noreferrer"><em>clique aqui</em></a></strong>.
+
+&nbsp;
 <h2 class="course-header-banner-title" aria-label="Curso de Modelagem de banco de dados relacional: modelagem lógica e física"><strong>Modelo físico</strong></h2>
 O programa utilizado para o desenvolvimento do modelo físico, foi o SQL Power Architect. (<a href="https://bestofbi.com/architect-download/" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://bestofbi.com/architect-download/</em></span></a>)
 
 <img class="aligncenter wp-image-18457 size-full" src="https://www.makerzine.com.br/wp-content/uploads/2022/12/Modelagem_fisica.png" alt="" width="1186" height="688" />
+
+Para baixar o arquivo do modelo físico (brModelo), <a href="https://github.com/rodrigorissettoterra/Modelagem-de-dados/blob/main/F%C3%ADsico_livraria.architect%7E" target="_blank" rel="nofollow noopener noreferrer"><strong><span style="text-decoration: underline;"><em>clique aqui</em></span></strong></a>.
