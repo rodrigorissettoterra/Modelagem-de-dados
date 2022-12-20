@@ -247,7 +247,7 @@ Código:
  	<li style="text-align: left;"><code>(5, 1, 6, 3, '2020-11-03'),</code></li>
  	<li style="text-align: left;"><code>(6, 1, 9, 2, '2020-11-04'),</code></li>
  	<li style="text-align: left;"><code>(7, 4, 1, 3, '2020-11-04'),</code></li>
-  <li style="text-align: left;"><code>(8, 1, 5, 2, '2020-11-05'),</code></li>
+ 	<li style="text-align: left;"><code>(8, 1, 5, 2, '2020-11-05'),</code></li>
  	<li style="text-align: left;"><code>(9, 1, 2, 1, '2020-11-05'),</code></li>
  	<li style="text-align: left;"><code>(10, 3, 8, 2, '2020-11-11'),</code></li>
  	<li style="text-align: left;"><code>(11, 1, 1, 4, '2020-11-11'),</code></li>
@@ -295,7 +295,7 @@ Código:
 <h4>Consultas com filtro (WHERE)</h4>
 Código:
 
-#Criando filtros nas consultas
+Criando filtros nas consultas
 <ol>
  	<li style="text-align: left;"><code>SELECT * FROM LIVROS</code></li>
  	<li style="text-align: left;"><code>WHERE CATEGORIA = 'BIOGRAFIA';</code></li>
@@ -362,3 +362,5 @@ Código:
 &nbsp;
 
 <img class="aligncenter size-full wp-image-18493" src="https://www.makerzine.com.br/wp-content/uploads/2022/12/com_inner_join.png" alt="" width="657" height="302" />
+
+Para baixar o script em SQL, basta acessar: <a href="https://github.com/rodrigorissettoterra/Modelagem-de-dados/blob/main/Script_Livraria.sql" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>https://github.com/rodrigorissettoterra/Modelagem-de-dados/blob/main/Script_Livraria.sql</em></span></a>.
