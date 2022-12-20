@@ -247,7 +247,7 @@ Código:
  	<li style="text-align: left;"><code>(5, 1, 6, 3, '2020-11-03'),</code></li>
  	<li style="text-align: left;"><code>(6, 1, 9, 2, '2020-11-04'),</code></li>
  	<li style="text-align: left;"><code>(7, 4, 1, 3, '2020-11-04'),</code></li>
- 	<li style="text-align: left;">(8, 1, 5, 2, '2020-11-05'),</li>
+  <li style="text-align: left;"><code>(8, 1, 5, 2, '2020-11-05'),</code></li>
  	<li style="text-align: left;"><code>(9, 1, 2, 1, '2020-11-05'),</code></li>
  	<li style="text-align: left;"><code>(10, 3, 8, 2, '2020-11-11'),</code></li>
  	<li style="text-align: left;"><code>(11, 1, 1, 4, '2020-11-11'),</code></li>
